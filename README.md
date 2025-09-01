@@ -5,7 +5,7 @@
 <br>
 <div>
   <a href="https://github.com/EnosRocha"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=dracula&hide=issues,contribs" alt="GitHub Stats"/>
+  <img height="190em" width="400em" src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=dracula&hide=issues,contribs" alt="GitHub Stats"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=dracula&hide=html,css" alt="Top Languages"/>
 </div>
 
