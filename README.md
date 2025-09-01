@@ -5,11 +5,10 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
 <div>
-  <img height: "180em" src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats"/>
-  <img height: "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=radical&hide=html,css" alt="Top Languages"/>
+  <a href="https://github.com/EnosRocha" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=radical&hide=html,css" alt="Top Languages"/>
 </div>
 
 <br>
