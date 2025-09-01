@@ -11,7 +11,7 @@
 
 <br>
 
-<div style="display: inline_block; margin: 10px;"><br>
+<div style="display: inline_block; margin: 5px;"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="50" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="50" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="50" title="React.js"/>
@@ -25,7 +25,7 @@
 ##
 
 
-<div style="display: flex; margin: 10px; flex-wrap: wrap;">
+<div style="display: flex; margin: 5px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/enosrocha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
