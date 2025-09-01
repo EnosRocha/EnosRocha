@@ -1,9 +1,10 @@
 # 👋 Olá, eu sou Enos Rocha
 ---
 
-![Enos Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=radical)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=radical)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=radical" alt="Enos Rocha's GitHub stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=radical" alt="Top Linguagens" width="400"/>
+</div>
 
 ---
 
