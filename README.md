@@ -25,7 +25,7 @@
 ##
 
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+<div style="display: flex; gap: 15px; margin: 5px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/enosrocha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
