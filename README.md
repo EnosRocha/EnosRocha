@@ -7,7 +7,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div>
   <img height: "200em" src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats"/>
   <img height: "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=radical&hide=html,css" alt="Top Languages"/>
 </div>
@@ -22,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="50" height="50" title="TailWind"/>
           
 </div>
 
