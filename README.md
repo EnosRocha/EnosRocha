@@ -22,18 +22,11 @@
 
 ---
 
-## 🔥 Minhas Estatísticas no GitHub
-
-![Enos Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
 ## 📈 Atividade recente
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight)
+<!-- Gif animado de commits -->
+![GitHub Commits](https://github.com/EnosRocha/workflows/CI/badge.svg)
 
 ---
 
-🌟 Explore meus projetos para ver como aplico essas tecnologias em soluções criativas e eficientes!
+🌟 Explore meus projetos para ver como aplico minhas habilidades em soluções criativas e eficientes!
