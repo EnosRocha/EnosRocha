@@ -3,7 +3,7 @@
 💡 Desenvolvedor apaixonado por tecnologia, curioso e sempre em busca de soluções criativas e eficientes.  
 🎯 Focado em **Java | Spring Boot | React.js | DDD | SQL | Docker | Kafka**  
 
---
+##
 
 <div>
   <a href="https://github.com/EnosRocha"/>
@@ -24,7 +24,7 @@
           
 </div>
 
---
+##
 
 
 ## 🌎 Onde me encontrar
