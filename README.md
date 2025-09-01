@@ -30,11 +30,6 @@
 
 ---
 
-## 🔥 Atividade recente
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnosRocha&theme=radical)
-
----
 
 ## 🌎 Onde me encontrar
 
