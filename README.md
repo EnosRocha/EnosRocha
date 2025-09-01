@@ -11,8 +11,8 @@ Atualmente busco oportunidades para crescer em um ambiente colaborativo, contrib
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" width="50" height="50" title="Apache Kafka"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/kafka-original.svg" width="50" height="50" title="Apache Kafka"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
@@ -30,10 +30,10 @@ Atualmente busco oportunidades para crescer em um ambiente colaborativo, contrib
 
 ---
 
-## 📈 Minhas Contribuições Recentes
 
-<!-- Animation de commits -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EnosRocha&theme=react-dark&hide_border=true)
+## 📈 Minha Atividade no GitHub
+
+![Enos Rocha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EnosRocha&theme=react-dark&hide_border=true)
 
 ---
 
