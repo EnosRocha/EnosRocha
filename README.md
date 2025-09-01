@@ -16,7 +16,7 @@
 
 ## 🛠 Tecnologias que utilizo
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: flex-start;">
+<div style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: flex-start;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React.js"/>
