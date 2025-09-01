@@ -7,7 +7,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div style="display: flex; gap: 10px; align-items: stretch; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; align-items: stretch; justify-items: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats" style="height: 200px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=radical&hide=html,css" alt="Top Languages" style="height: 200px;"/>
 </div>
