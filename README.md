@@ -12,11 +12,11 @@ Atualmente busco oportunidades para crescer em um ambiente colaborativo, contrib
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/kafka-original.svg" width="50" height="50" title="Apache Kafka"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="Tailwind CSS"/>
 </div>
 
 ---
@@ -30,10 +30,17 @@ Atualmente busco oportunidades para crescer em um ambiente colaborativo, contrib
 
 ---
 
+## 📊 Estatísticas do GitHub
 
-## 📈 Minha Atividade no GitHub
+![Enos Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=radical)
 
-![Enos Rocha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EnosRocha&theme=react-dark&hide_border=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=radical)
+
+---
+
+## 🔥 Atividade recente
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnosRocha&theme=radical)
 
 ---
 
