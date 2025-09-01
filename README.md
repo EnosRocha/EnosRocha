@@ -1,15 +1,15 @@
 # 👋 Ola! Eu sou o Enos Rocha  
 
 💡 Desenvolvedor apaixonado por tecnologia, curioso e sempre em busca de soluções criativas e eficientes.  
-🎯 Focado em **Java | Spring Boot | React.js | Microsserviços | SQL | Docker**  
+🎯 Focado em **Java | Spring Boot | React.js | DDD | SQL | Docker | Kafka**  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div>
-  <img height: "200em" src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats"/>
-  <img height: "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=radical&hide=html,css" alt="Top Languages"/>
+  <img height: "180em" src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats"/>
+  <img height: "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=radical&hide=html,css" alt="Top Languages"/>
 </div>
 
 <br>
