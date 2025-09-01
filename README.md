@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Enos Rocha
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; align-items: start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=radical" alt="Enos Rocha's GitHub stats" style="height: 200px; width: 100%; object-fit: cover;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=radical" alt="Top Linguagens" style="height: 200px; width: 100%; object-fit: cover;"/>
+<div style="display: flex; gap: 10px; align-items: stretch; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=radical" alt="Enos Rocha's GitHub stats" style="height: 200px; width: 350px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnosRocha&layout=compact&theme=radical" alt="Top Linguagens" style="height: 200px; width: 350px;"/>
 </div>
 
 <br>
