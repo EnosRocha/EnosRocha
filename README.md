@@ -1,8 +1,10 @@
-# 👋 Ola! Eu sou o Enos Rocha  
+# 👋 Olá! Eu sou o Enos Rocha  
 
 💡 Desenvolvedor apaixonado por tecnologia, curioso e sempre em busca de soluções criativas e eficientes.  
-🎯 Focado em **Java | Spring Boot | React.js | DDD | SQL | Docker | Kafka**  
+🎯 Focado em **Java | Spring Boot | Vue.js | DDD | SQL | Docker | Kafka**  
+
 <br>
+
 <div>
   <a href="https://github.com/EnosRocha"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnosRocha&show_icons=true&theme=dracula&hide=issues,contribs" alt="GitHub Stats"/>
@@ -14,7 +16,7 @@
 <div style="display: inline_block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="50" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="50" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="50" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="50" title="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="50" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="50" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="50" title="Docker"/>
