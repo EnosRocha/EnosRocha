@@ -2,7 +2,7 @@
 
 💡 **Desenvolvedor de Software Full Stack** focado em criar soluções eficientes, escaláveis e automatizadas. Atualmente, atuo na otimização de processos e desenvolvimento de arquiteturas modernas.
 
-🎯 **Foco Técnico:** Java | Spring Boot | Vue.js | Docker | ]Automação de Processos (BPM) 
+🎯 **Foco Técnico:** Java | Spring Boot | Vue.js | Docker | Automação de Processos (BPM) 
 
 ---
 
