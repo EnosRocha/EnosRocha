@@ -1,16 +1,16 @@
 # 👋 Olá! Eu sou o Enos Rocha
 
-💡 **Desenvolvedor de Software Full Stack** focado em criar soluções eficientes, escaláveis e automatizadas. [cite_start]Atualmente, atuo na otimização de processos de RH e desenvolvimento de arquiteturas modernas. [cite: 4, 15]
+💡 **Desenvolvedor de Software Full Stack** focado em criar soluções eficientes, escaláveis e automatizadas. Atualmente, atuo na otimização de processos de RH e desenvolvimento de arquiteturas modernas.
 
-🎯 **Foco Técnico:** Java | Spring Boot | Vue.js | Docker | [cite_start]Automação de Processos (BPM) [cite: 25, 47, 50]
+🎯 **Foco Técnico:** Java | Spring Boot | Vue.js | Docker | ]Automação de Processos (BPM) 
 
 ---
 
 ### 🚀 Sobre Mim
-* [cite_start]🎓 Cursando **Engenharia de Software** (Previsão 2027). [cite: 8, 9]
-* [cite_start]🛠️ Experiência sólida em **automação de fluxos complexos** e desenvolvimento de **APIs RESTful**. [cite: 5, 19]
-* [cite_start]🔐 Especialista em segurança com **Spring Security (JWT e OAuth2)**. [cite: 42, 56]
-* [cite_start]🌍 **Inglês Avançado (C1)** e noções de Francês. [cite: 53]
+* 🎓 Cursando **Engenharia de Software** (Previsão 2027). 
+* 🛠️ Experiência sólida em **automação de fluxos complexos** e desenvolvimento de **APIs RESTful**. 
+* 🔐 Especialista em segurança com **Spring Security (JWT e OAuth2)**. 
+* 🌍 **Inglês Avançado (C1)** e noções de Francês. 
 
 ---
 
