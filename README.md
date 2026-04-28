@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Enos Rocha
 
-💡 **Desenvolvedor de Software Full Stack** focado em criar soluções eficientes, escaláveis e automatizadas. Atualmente, atuo na otimização de processos de RH e desenvolvimento de arquiteturas modernas.
+💡 **Desenvolvedor de Software Full Stack** focado em criar soluções eficientes, escaláveis e automatizadas. Atualmente, atuo na otimização de processos e desenvolvimento de arquiteturas modernas.
 
 🎯 **Foco Técnico:** Java | Spring Boot | Vue.js | Docker | ]Automação de Processos (BPM) 
 
