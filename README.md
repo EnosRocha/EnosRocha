@@ -1,16 +1,18 @@
 # 👋 Olá! Eu sou o Enos Rocha
 
-💡 **Desenvolvedor de Software Full Stack** focado em criar soluções eficientes, escaláveis e automatizadas. Atualmente, atuo na otimização de processos e desenvolvimento de arquiteturas modernas.
+💡 **Desenvolvedor de Software Full Stack Júnior** em constante aprendizado, criando soluções com Java e Vue.js. Hoje atuo com integrações entre sistemas e desenvolvimento de APIs e interfaces web.
 
-🎯 **Foco Técnico:** Java | Spring Boot | Vue.js | Docker | Automação de Processos (BPM) 
+🎯 **Foco Técnico:** Java | Spring Boot | Vue.js | Docker | Integrações (REST e SOAP)
 
 ---
 
 ### 🚀 Sobre Mim
-* 🎓 Cursando **Engenharia de Software** (Previsão 2027). 
-* 🛠️ Experiência sólida em **automação de fluxos complexos** e desenvolvimento de **APIs RESTful**. 
-* 🔐 Especialista em segurança com **Spring Security (JWT e OAuth2)**. 
-* 🌍 **Inglês Avançado (C1)** e noções de Francês. 
+* 🎓 Cursando **Engenharia de Software** (previsão 2027).
+* 🛠️ Trabalho na **ENGPAC** com integrações entre **Fluig BPM** e **TOTVS RM** via REST e SOAP.
+* 🌐 Desenvolvo **APIs RESTful** com Spring Boot e front-ends com **Vue 3** (Pinia e Vue Router).
+* 🔐 Já usei **Spring Security (JWT e OAuth2)** e sigo estudando boas práticas de segurança.
+* 📚 Atualmente estudando Java e Spring Boot a fundo.
+* 🌍 **Inglês Avançado (C1)** e noções de Francês.
 
 ---
 
@@ -18,19 +20,16 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" style="margin: 6px;" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" style="margin: 6px;" title="Spring Boot / Spring Security" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" style="margin: 6px;" title="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" style="margin: 6px;" title="Apache Kafka" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" style="margin: 6px;" title="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" style="margin: 6px;" title="JavaScript" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" style="margin: 6px;" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" style="margin: 6px;" title="CSS3" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" style="margin: 6px;" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin: 6px;" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" style="margin: 6px;" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" style="margin: 6px;" title="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" style="margin: 6px;" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" style="margin: 6px;" title="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" style="margin: 6px;" title="Git" />
 </p>
 
